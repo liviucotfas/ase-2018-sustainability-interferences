@@ -1,5 +1,5 @@
 
-Please contact us at liviu.cotfas at ase .ro for the `NetLogo` source code.
+Please feel free to contact us at liviu.cotfas at ase .ro for the `NetLogo` source code.
 
 # Boarding Methods
 
